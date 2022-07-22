@@ -22,8 +22,8 @@ This project emphasizes the use of using Javascript, Jquery and how manuplate DO
     * When you run the application it will show you 9am to 5pm block where you enter or reserve the task and save it by clicking on save button.
     * Used Local storage to store the data when seesion is closed also.
     
-![](./docs/front.PNG)
-![](./docs/demo.PNG)
+(./docs/front.PNG)
+(./docs/demo.PNG)
 
 
 
