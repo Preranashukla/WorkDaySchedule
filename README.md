@@ -23,7 +23,7 @@ This project emphasizes the use of using Javascript, Jquery and how manuplate DO
     * Used Local storage to store the data when seesion is closed also.
     
 ![](./doc/front.PNG)
-![](./doc/demo.PNG)
+![](./doc/Demo.PNG)
 
 
 
