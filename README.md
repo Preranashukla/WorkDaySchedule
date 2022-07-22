@@ -14,13 +14,14 @@
 * To install this code, download the zip file, or use GitHub's guidelines to clone the repository.
 
 ## Summary
-* HTML and CSS and Javascript documents create a random password generator
-This project emphasizes the use of using Javascript to make dynamic changes to an HMTL document.
+* HTML and CSS and Javascript and Jquery to create work Schedul application
+This project emphasizes the use of using Javascript, Jquery and how manuplate DOM elements to make dynamic changes to an HMTL document.
 
-![](./docs/Demo.PNG)
-## A generate button
-    * This will send the user a series of prompts and confirms
-    * After user data is collected, a random password will be generated using Javascript
+
+## Work Day Schedule
+    * When you run the application it will show you 9am to 5pm block where you enter or reserve the task and save it by clicking on save button.
+    * Used Local storage to store the data when seesion is closed also.
+    
 
 ![](./docs/pass.PNG)
 
